@@ -24,7 +24,9 @@ In this case, you are interested in loading any **.wav** file from a folder.
 
 # Repository Notes
 
-All **.wav** files in this repository are just examples of usage. You can apply to your own files.
+All **.wav** files in this repository are just examples of usage. You can apply your own files.
 
 If you want to use the second tip, please pay attention in the files name pattern: 
 - They must to be "prefix-word" + "index-number" + ".wav"
+
+Pay attention if your Matlab version has the **audioread** function.
